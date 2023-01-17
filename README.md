@@ -1,2 +1,2 @@
-# azure_functions
+# AzureFunctions
 Manejo de Funciones en Azure
